@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prologihecyraet00amdogoog_0008.png"; bbox 0 0 2896 4460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 1532 1032 1668">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 1532 1032 1668">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 1532 1032 1668; baseline -0.007 -18"><span class='ocrx_word' id='word_1_1' title='bbox 426 1532 724 1650; x_wconf 78' lang='lat' dir='ltr'>LUDOVIOO</span> <span class='ocrx_word' id='word_1_2' title='bbox 759 1533 1032 1668; x_wconf 72' lang='lat' dir='ltr'><strong>AMDOHR,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 373 1871 976 1966">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 373 1871 976 1966">
+     <span class='ocr_line' id='line_1_2' title="bbox 373 1871 976 1966; baseline -0.013 0"><span class='ocrx_word' id='word_1_3' title='bbox 373 1963 374 1966; x_wconf 5' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_4' title='bbox 475 1871 619 1958; x_wconf 82' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 643 1871 976 1959; x_wconf 79' lang='lat' dir='ltr'>DILEOTISSUMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 224 2141 1339 2252">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 224 2141 1339 2252">
+     <span class='ocr_line' id='line_1_3' title="bbox 224 2141 1339 2252; baseline 0.001 -5"><span class='ocrx_word' id='word_1_6' title='bbox 224 2178 340 2248; x_wconf 67' lang='lat' dir='ltr'>nuno</span> <span class='ocrx_word' id='word_1_7' title='bbox 361 2179 570 2250; x_wconf 68' lang='lat' dir='ltr'>mamm</span> <span class='ocrx_word' id='word_1_8' title='bbox 592 2180 761 2250; x_wconf 71' lang='lat' dir='ltr'>sAORUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 782 2178 889 2250; x_wconf 65' lang='lat' dir='ltr'>Essa</span> <span class='ocrx_word' id='word_1_10' title='bbox 910 2179 1024 2250; x_wconf 73' lang='lat' dir='ltr'>vom</span> <span class='ocrx_word' id='word_1_11' title='bbox 1043 2178 1222 2252; x_wconf 66' lang='lat' dir='ltr'><strong>Auem.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1338 2141 1339 2144; x_wconf 50' lang='lat'>‘</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1452 4460">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1452 4460">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1452 4460; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1452 4460; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
